@@ -1,0 +1,14 @@
+C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Saper\Saper\bin\Debug\net8.0\Saper.exe
+C:\Users\dawid\source\repos\Saper\Saper\bin\Debug\net8.0\Saper.deps.json
+C:\Users\dawid\source\repos\Saper\Saper\bin\Debug\net8.0\Saper.runtimeconfig.json
+C:\Users\dawid\source\repos\Saper\Saper\bin\Debug\net8.0\Saper.dll
+C:\Users\dawid\source\repos\Saper\Saper\bin\Debug\net8.0\Saper.pdb
+C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.dll
+C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\refint\Saper.dll
+C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.pdb
+C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.genruntimeconfig.cache
+C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\ref\Saper.dll
