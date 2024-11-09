@@ -12,3 +12,4 @@ C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\refint\Saper.dll
 C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.pdb
 C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.genruntimeconfig.cache
 C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\ref\Saper.dll
+C:\Users\dawid\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.sourcelink.json
